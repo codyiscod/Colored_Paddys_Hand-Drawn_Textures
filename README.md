@@ -38,3 +38,10 @@
     python main.py
     ```
     The **converted resource pack** will be **automatically created at** `/Colored_PaddyFolderNameHere`
+
+
+## Screenshots
+| <center><img src="git/v0.png" width=64 height=64><h1><a href="https://modrinth.com/resourcepack/paddys-handdrawn-textures">Original</a></h1></center> | <center><img src="git/v1.png" width=64 height=64><h1>Colored</h1></center> |
+| --- | --- |
+| ![](git/screenshot1_normal.png) | ![](git/screenshot1_color.png) |
+| ![](git/screenshot2_normal.png) | ![](git/screenshot2_color.png) |
